@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 
+#pycharm files
+.idea/
+
 #ubuntu changed files
 *.*~
 
